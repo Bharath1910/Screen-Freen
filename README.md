@@ -1,7 +1,7 @@
 # Screen-Freen
 This is a Screen Time monitor which tracks how much time you spent on your PC. More details below
 
-# Here's a quick overview of what Screen-Freen is going to do (in the future)
+# Here's a quick overview of what Screen-Freen is going to do
 * stores how much I spent time on PC in a log file
 * every 30 minutes it gives notification to get off of my chair and do eye exercise
 * and dims the whole screen to 0% brightness for 30 seconds
