@@ -8,37 +8,6 @@ everytime I boot up my PC, it will give notification of how much time I spent of
 the software runs on boot (CAN)
 """
 
-
-# # # import psutil
-# # # from datetime import datetime
-# # # time = datetime.now() - datetime.fromtimestamp(psutil.boot_time())
-# # # print(time)
-# # # # from subprocess import call
-# # # # test = call( ["powershell", "-command", "(gcim Win32_OperatingSystem).LastBootUpTime"] )
-
-# # # # print(test)
-
-# # # importing the module
-# # import screen_brightness_control as sbc
- 
-# # # get current brightness  value
-# # current_brightness = sbc.get_brightness()
-# # print(current_brightness)
- 
-# # # get the brightness of the primary display
-# # primary_brightness = sbc.get_brightness(display=0)
-# # print(primary_brightness)
-
-# # importing the module
-# import screen_brightness_control as sbc
- 
-# # get current brightness value
-# print(sbc.get_brightness())
- 
-# #set brightness to 50%
-# sbc.set_brightness(0)
- 
-# print(sbc.get_brightness())
  
 import os
 from plyer import notification
