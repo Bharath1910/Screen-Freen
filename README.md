@@ -10,9 +10,4 @@ This is a Screen Time monitor which tracks how much time you spent on your PC. M
 * everytime I boot up my PC, it will give notification of how much time I spent off of PC
 * the software runs on boot
 
-``To be honest, I got no idea how I going to do this.``
-
-I am planning to start this project after July 24.
-my exams :'(
-
-**Note To My Future Self:** Pls complete this project 
+## Under Dev
