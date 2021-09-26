@@ -31,4 +31,4 @@ c.execute("""CREATE TABLE IF NOT EXISTS time (
 # 	c.execute("UPDATE time SET uptime=? WHERE thedate=?", (time, today))
 # 	conn.commit()
 
-# conn.close()
+conn.close()
